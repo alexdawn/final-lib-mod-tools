@@ -1,4 +1,10 @@
-tiles/
-maps/
-sprites/
+tiles/*
+maps/*
+sprites/*
+gifs/*
 venv/
+examples/*
+.vscode/
+.ipynb_checkpoints/
+*.json
+*.DAT
